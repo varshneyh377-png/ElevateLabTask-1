@@ -47,6 +47,11 @@ The objective is to transform raw data into a clean and structured format suitab
    - Create boxplots to identify outliers.
    - Use count plots to analyze categorical variables.
    - Create correlation heatmaps to identify relationships between numerical variables.
+     <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/d8a0e051-3d03-4687-97b3-d17ed472518c" />
+
+     <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/0c3ee0a3-c94d-4661-89cb-6645dd96bf46" />
+
+
 
 5. **Analysis**
    - Observe patterns and trends.
