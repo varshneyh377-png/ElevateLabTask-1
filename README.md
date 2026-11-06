@@ -44,10 +44,12 @@ The objective is to transform raw data into a clean and structured format suitab
 
 4. **Data Visualization**
    - Generate histograms to understand distributions.
-   - Create boxplots to identify outliers.
+   - Create boxplots , histplots  to identify outliers.
    - Use count plots to analyze categorical variables.
    - Create correlation heatmaps to identify relationships between numerical variables.
      <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/d8a0e051-3d03-4687-97b3-d17ed472518c" />
+     <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/bae32aa3-ebba-4235-8f35-ecff189f8036" />
+
 
      <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/0c3ee0a3-c94d-4661-89cb-6645dd96bf46" />
 
